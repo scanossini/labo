@@ -23,8 +23,8 @@ PARAM$input$future        <- c( 202109 )   #meses donde se aplica el modelo
 PARAM$finalmodel$semilla           <- 770027
 
 PARAM$finalmodel$num_iterations    <-  566
-PARAM$finalmodel$learning_rate     <-    102844000000000
-PARAM$finalmodel$feature_fraction  <-    848379000000000
+PARAM$finalmodel$learning_rate     <-    0.0102843875212594
+PARAM$finalmodel$feature_fraction  <-    0.848378502103465
 PARAM$finalmodel$min_data_in_leaf  <-    1413
 PARAM$finalmodel$num_leaves        <-     1024
 
